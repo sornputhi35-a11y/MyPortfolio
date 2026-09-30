@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Sister of Code/My-First-Website"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web_app_development"
+	}
+}
